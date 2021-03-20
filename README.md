@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shakil89@student.sust.edu**
 
-- ⚡ Fun fact **A good footballer indeed**
+- ⚡ Fun fact **More footballer than developer**
 
 
 <h3 align="left">Languages and Tools:</h3>
