@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil2019331089hiat" alt="shakil2019331089hiat" /></a> </p>
 
-- 🔭 I’m currently working on **DS assignment**
+- 🔭 I’m currently working on **Project 150**
 
 - 🌱 I’m currently learning **App developing**
 
